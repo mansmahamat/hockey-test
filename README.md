@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Create .env files in the root directory like the env.example with your APIkeys
+
 In the project directory, you can run:
 
 ### `npm start`
